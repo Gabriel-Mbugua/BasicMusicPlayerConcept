@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
 
-  String appTitle = "Mellodis";
+  String appTitle = "Music Player";
 
   @override
   Widget build(BuildContext context) {

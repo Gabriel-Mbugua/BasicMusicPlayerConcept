@@ -56,7 +56,7 @@ class RegisterScreen extends StatelessWidget {
                             height: MediaQuery.of(context).size.height * 0.15,
                           ),
                           Text(
-                            "Mellodis",
+                            "Music Player",
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 20,
