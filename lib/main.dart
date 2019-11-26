@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Mellodis',
+        title: 'Music Player',
         theme: ThemeData(
             primarySwatch: Colors.deepPurple,
             accentColor: Colors.deepPurpleAccent,
