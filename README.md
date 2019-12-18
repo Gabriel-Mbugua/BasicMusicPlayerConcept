@@ -11,6 +11,9 @@ A project idea where users can sell their beats to artists and other interested 
 # Registration Page
 ![Registration Page](assets/images/previewImages/registration_page.jpg)
 
+# Expanded Beat
+![Expanded Beat](assets/images/previewImages/home_page_expanded.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
