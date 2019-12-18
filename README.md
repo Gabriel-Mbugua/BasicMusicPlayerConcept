@@ -1,4 +1,4 @@
-# music_player
+# Music_player
 
 A project idea where users can sell their beats to artists and other interested parties. Beats can be previewed before being unlocked. Beats can either be bought or sharing a certain beat with a certain number of users can unlock the beat.
 
@@ -6,7 +6,7 @@ A project idea where users can sell their beats to artists and other interested 
 ![Home Page](blob:https://web.whatsapp.com/15dc6d47-e677-4728-893e-ba05dd15fe04)
 
 # Login_Page
-![Login Page](blob:https://web.whatsapp.com/a8c5f37b-c791-4bcb-8cb5-41954e1527df)
+![Login Page](https://drive.google.com/file/d/1X11UL5pr3yICKuOHRzMnnrqLbnt-WR9s/view?usp=sharing)
 
 ## Getting Started
 
