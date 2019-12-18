@@ -3,16 +3,16 @@
 A project idea where users can sell their beats to artists and other interested parties. Beats can be previewed before being unlocked. Beats can either be bought or sharing a certain beat with a certain number of users can unlock the beat.
 
 # Home_Page
-<img src = "assets/images/previewImages/home_page.jpg" height = "200"
+<img src="assets/images/previewImages/home_page.jpg" width = "300">
 
 # Login_Page
-![Login Page](assets/images/previewImages/login_page.jpg)
+<img src="assets/images/previewImages/login_page.jpg" width = "300">
 
 # Registration Page
-![Registration Page](assets/images/previewImages/registration_page.jpg)
+<img src="assets/images/previewImages/registration_page.jpg" width = "300">
 
 # Expanded Beat
-![Expanded Beat](assets/images/previewImages/home_page_expanded.jpg)
+<img src="assets/images/previewImages/home_page_expanded.jpg" width = "300">
 
 ## Getting Started
 
