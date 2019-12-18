@@ -1,6 +1,9 @@
 # music_player
 
-A new Flutter project.
+A project idea where users can sell their beats to artists and other interested parties. Beats can be previewed before being unlocked. Beats can either be bought or sharing a certain beat with a certain number of users can unlock the beat.
+
+# Login_Page
+![Login Page](C:\Users\Wanga\Documents\Mellodis\login_page.jpg)
 
 ## Getting Started
 
