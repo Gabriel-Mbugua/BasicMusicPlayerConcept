@@ -6,7 +6,7 @@ A project idea where users can sell their beats to artists and other interested 
 ![Home Page](blob:https://web.whatsapp.com/15dc6d47-e677-4728-893e-ba05dd15fe04)
 
 # Login_Page
-![Login Page](https://github.com/Gabriel-Mbugua/BasicMusicPlayerConcept/blob/master/assets/images/previewImages/login_page.jpg)
+![Login Page](assets/images/previewImages/login_page.jpg)
 
 ## Getting Started
 
