@@ -3,10 +3,13 @@
 A project idea where users can sell their beats to artists and other interested parties. Beats can be previewed before being unlocked. Beats can either be bought or sharing a certain beat with a certain number of users can unlock the beat.
 
 # Home_Page
-![Home Page](blob:https://web.whatsapp.com/15dc6d47-e677-4728-893e-ba05dd15fe04)
+![Home Page](assets/images/previewImages/home_page.jpg)
 
 # Login_Page
 ![Login Page](assets/images/previewImages/login_page.jpg)
+
+# Registration Page
+![Registration Page](assets/images/previewImages/registration_page.jpg)
 
 ## Getting Started
 
